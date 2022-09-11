@@ -1,2 +1,1 @@
-[The Recipes website]
-(https://otabekvaxobov.github.io/odin-recipes/ "deploy")
+[The Recipes website](https://otabekvaxobov.github.io/odin-recipes/ 'deploy')
